@@ -85,14 +85,3 @@ Les principales conclusions seront complétées après vérification des calculs
 - Capture d'écran : aperçu du tableau de bord Power BI.
 - Fichier `.pbix` : à ajouter au dépôt après vérification des données et des sources.
 
-## 🚀 Améliorations envisagées
-
-- Améliorer la lisibilité et le design des visualisations.
-- Ajouter des infobulles personnalisées.
-- Vérifier les mesures de croissance annuelle.
-- Documenter les mesures DAX.
-- Ajouter une analyse détaillée des résultats.
-
----
-
-**Projet de portfolio — Data Analyst | Power BI | Power Query | DAX**
