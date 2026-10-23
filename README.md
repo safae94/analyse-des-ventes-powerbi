@@ -79,9 +79,3 @@ Les principales conclusions seront complétées après vérification des calculs
 - Conception de tableaux de bord interactifs
 - Suivi des indicateurs de performance
 
-## 📂 Fichiers du projet
-
-- `README.md` : présentation et documentation du projet.
-- Capture d'écran : aperçu du tableau de bord Power BI.
-- Fichier `.pbix` : à ajouter au dépôt après vérification des données et des sources.
-
